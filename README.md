@@ -1,6 +1,6 @@
-## Cloud-Computing-Project
+# Cloud-Computing-Project
 
-# Multi-cloud process failover:
+## Multi-cloud process failover:
 
 Implementing a multi-cloud control solution for our applications makes it more robust and fault-tolerant. It assists the applications to have a seamless task.
 
